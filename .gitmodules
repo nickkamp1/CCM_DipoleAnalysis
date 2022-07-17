@@ -1,0 +1,6 @@
+[submodule "sources/DarkNews-generator"]
+	path = sources/DarkNews-generator
+	url = https://github.com/mhostert/DarkNews-generator.git
+[submodule "sources/LeptonInjectorDevPrivate"]
+	path = sources/LeptonInjectorDevPrivate
+	url = https://github.com/austinschneider/LeptonInjectorDevPrivate.git
